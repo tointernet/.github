@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/tointernet">
-    <img src="https://github.com/tointernet/.github/tree/main/profile/logo.jpg" alt="ToI logo" height="180">
+    <img src="https://github.com/tointernet/.github/blob/main/profile/logo.jpg" alt="ToI logo" height="180">
   </a>
 </p>
 
